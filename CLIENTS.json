@@ -1,0 +1,49 @@
+{
+  "schema": "MPA.ClientDownloadCatalog.v1",
+  "updatedDate": "2026-10-28",
+  "version": "r19-ovh-test-20261021",
+  "state": "Test / ValidationIncomplete",
+  "readyApproved": false,
+  "releaseUrl": "https://github.com/sabedoriadatorah/MagicPlateArmor-Clients/releases/tag/r19-ovh-test-20261021",
+  "sourceReleaseId": "2026-10-21-r19",
+  "sourceCommit": "6a36ee6deaa1404e143834f1e667afc7e311efd2",
+  "protocolVersion": 11,
+  "backendSchemaAtPublication": 19,
+  "metadataOnlyUpdate": true,
+  "newBuildCreated": false,
+  "notes": [
+    "Arquivos de cliente já publicados, preservados sem recompilação.",
+    "Alterações posteriores no Dev não estão nestes binários.",
+    "Teste manual do proprietário e validação em aparelhos continuam pendentes; nenhuma aprovação Ready."
+  ],
+  "artifacts": [
+    {
+      "platform": "Android ARM64 / landscape",
+      "filename": "MagicPlateArmor-Android-r19-ovh-public.apk",
+      "bytes": 703358233,
+      "sha256": "1ed58806713352109dbe26561aad75e54078ee33eeeb0599168493471f1f4d16",
+      "downloadUrl": "https://github.com/sabedoriadatorah/MagicPlateArmor-Clients/releases/download/r19-ovh-test-20261021/MagicPlateArmor-Android-r19-ovh-public.apk"
+    },
+    {
+      "platform": "Windows x64",
+      "filename": "MagicPlateArmor-Windows-r19-ovh-public.zip",
+      "bytes": 633776831,
+      "sha256": "0e90b4b4229f2805d5a1e15fc404b6cbc956c575c34e9fb5e329b25801ccc5f4",
+      "downloadUrl": "https://github.com/sabedoriadatorah/MagicPlateArmor-Clients/releases/download/r19-ovh-test-20261021/MagicPlateArmor-Windows-r19-ovh-public.zip"
+    }
+  ],
+  "verificationFiles": [
+    {
+      "filename": "DISTRIBUTION.json",
+      "bytes": 6309,
+      "sha256": "feef1c50417d47815dba389d7fb77b45bbd0dc62649917b8dc9fed65ba307393",
+      "downloadUrl": "https://github.com/sabedoriadatorah/MagicPlateArmor-Clients/releases/download/r19-ovh-test-20261021/DISTRIBUTION.json"
+    },
+    {
+      "filename": "SHA256SUMS.txt",
+      "bytes": 302,
+      "sha256": "1d178e82ef91d68f813099b2ee5efc720ad8fcbc21f13ba112ed2bfdd80f3470",
+      "downloadUrl": "https://github.com/sabedoriadatorah/MagicPlateArmor-Clients/releases/download/r19-ovh-test-20261021/SHA256SUMS.txt"
+    }
+  ]
+}
